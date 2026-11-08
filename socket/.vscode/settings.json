@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "myserve.h": "c",
+        "mcu_thread.h": "c",
+        "sstream": "c",
+        "system_error": "c"
+    }
+}

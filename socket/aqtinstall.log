@@ -1,0 +1,58 @@
+2026-11-08 17:11:07,355 - aqt.main - INFO - installer 46508 aqtinstall(aqt) v3.3.0 on Python 3.11.9 [CPython MSC v.1938 64 bit (AMD64)]
+2026-11-08 17:11:28,124 - aqt.helper - DEBUG - helper 31100 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5129/Updates.xml.sha256
+2026-11-08 17:11:33,497 - aqt.helper - DEBUG - helper 20108 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/tools_mingw/Updates.xml.sha256
+2026-11-08 17:11:37,705 - aqt.helper - DEBUG - helper 49992 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/tools_qtcreator/Updates.xml.sha256
+2026-11-08 17:11:53,053 - aqt.helper - DEBUG - helper 3740 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/tools_qtcreator/Updates.xml.sha256
+2026-11-08 17:12:10,954 - aqt.main - INFO - installer 52332 aqtinstall(aqt) v3.3.0 on Python 3.11.9 [CPython MSC v.1938 64 bit (AMD64)]
+2026-11-08 17:12:10,956 - aqt.helper - DEBUG - helper 52332 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5129/Updates.xml.sha256
+2026-11-08 17:12:12,211 - aqt.main - INFO - installer 488 aqtinstall(aqt) v3.3.0 on Python 3.11.9 [CPython MSC v.1938 64 bit (AMD64)]
+2026-11-08 17:12:12,211 - aqt.helper - DEBUG - helper 488 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/tools_mingw/Updates.xml.sha256
+2026-11-08 17:12:12,862 - aqt.main - INFO - installer 48600 aqtinstall(aqt) v3.3.0 on Python 3.11.9 [CPython MSC v.1938 64 bit (AMD64)]
+2026-11-08 17:12:12,862 - aqt.helper - DEBUG - helper 48600 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/tools_qtcreator/Updates.xml.sha256
+2026-11-08 17:12:12,994 - aqt.main - ERROR - installer 52332 Failed to locate XML data for Qt version '5.12.9'.
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-qt windows desktop' to show versions available.
+2026-11-08 17:12:14,307 - aqt.main - ERROR - installer 488 Failed to locate XML data for the tool 'tools_mingw'.
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-tool windows desktop' to show tools available.
+2026-11-08 17:12:14,779 - aqt.main - ERROR - installer 48600 Failed to locate XML data for the tool 'tools_qtcreator'.
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-tool windows desktop' to show tools available.
+2026-11-08 17:12:42,585 - aqt.main - INFO - installer 40408 aqtinstall(aqt) v3.3.0 on Python 3.11.9 [CPython MSC v.1938 64 bit (AMD64)]
+2026-11-08 17:12:42,586 - aqt.helper - DEBUG - helper 40408 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5129/Updates.xml.sha256
+2026-11-08 17:12:44,817 - aqt.main - ERROR - installer 40408 Failed to locate XML data for Qt version '5.12.9'.
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-qt windows desktop' to show versions available.
+2026-11-08 17:12:50,233 - aqt.main - INFO - installer 48372 aqtinstall(aqt) v3.3.0 on Python 3.11.9 [CPython MSC v.1938 64 bit (AMD64)]
+2026-11-08 17:12:50,233 - aqt.helper - DEBUG - helper 48372 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5129/Updates.xml.sha256
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372 DRY RUN: Would download and install the following:
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372   - qtbase: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtbase-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372   - qtconnectivity: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtconnectivity-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372   - qtactiveqt: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtactiveqt-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372   - qtmultimedia: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtmultimedia-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372   - qttranslations: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qttranslations-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372   - qtgraphicaleffects: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtgraphicaleffects-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372   - qtsvg: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtsvg-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,555 - aqt.installer - INFO - installer 48372   - qtdeclarative: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtdeclarative-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtwinextras: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtwinextras-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtimageformats: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtimageformats-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qttools: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qttools-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtxmlpatterns: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtxmlpatterns-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtsensors: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtsensors-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtwebsockets: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtwebsockets-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtwebchannel: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtwebchannel-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtlocation: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtlocation-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtserialport: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtserialport-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtquickcontrols: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtquickcontrols-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtquickcontrols2: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtquickcontrols2-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qt3d: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qt3d-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtcanvas3d: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtcanvas3d-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtserialbus: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtserialbus-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtscxml: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtscxml-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtgamepad: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtgamepad-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtspeech: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtspeech-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - qtremoteobjects: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743qtremoteobjects-Windows-Windows_7-Mingw73-Windows-Windows_7-X86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - i686: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743i686-7.3.0-release-posix-dwarf-rt_v5-rev0-runtime.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - d3dcompiler_47: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743d3dcompiler_47-x86.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372   - opengl32sw: online/qtsdkrepository/windows_x86/desktop/qt5_5129/qt.qt5.5129.win32_mingw73/5.12.9-0-202006121743opengl32sw-32-mesa_12_0_rc2.7z
+2026-11-08 17:12:53,556 - aqt.installer - INFO - installer 48372 Total packages: 29
